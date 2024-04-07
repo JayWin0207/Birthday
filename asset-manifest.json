@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a3ed51e4.css",
+    "main.js": "/static/js/main.29a44118.js",
+    "static/js/453.e68500a5.chunk.js": "/static/js/453.e68500a5.chunk.js",
+    "static/media/aswini-3.png": "/static/media/aswini-3.4c3b651a58474a00cda6.png",
+    "static/media/aswini-7.jpg": "/static/media/aswini-7.9774b3d9d767c9dc0e49.jpg",
+    "static/media/aswini-4.jpg": "/static/media/aswini-4.5df01c04d1eaf64ea93b.jpg",
+    "static/media/aswini-6.jpg": "/static/media/aswini-6.76970dc17fa8da159fa5.jpg",
+    "static/media/aswini-5.jpg": "/static/media/aswini-5.3009828e9588e77baf40.jpg",
+    "static/media/aswini-1.jpg": "/static/media/aswini-1.a6cd0e73e0084dfe9fc3.jpg",
+    "static/media/aswini-2.jpg": "/static/media/aswini-2.6573cbf2839cbf9c3653.jpg",
+    "static/media/jpg": "/static/media/83f75960a270e845a68618ecc5eff2e3.4d02ae8e96137da64e28.jpg",
+    "static/media/360_F_134916885_DYDxRJYq3yV23K5V7SAqr9PJWv9gIkqL.jpg": "/static/media/360_F_134916885_DYDxRJYq3yV23K5V7SAqr9PJWv9gIkqL.447d3fbaa088693046e2.jpg",
+    "static/media/7thbday.jpg": "/static/media/7thbday.7617867f30c93d9fc9bf.jpg",
+    "static/media/images (1).jpg": "/static/media/images (1).301938625a50127bef72.jpg",
+    "static/media/download.png": "/static/media/download.ece2b5a882299ec6afb6.png",
+    "index.html": "/index.html",
+    "main.a3ed51e4.css.map": "/static/css/main.a3ed51e4.css.map",
+    "main.29a44118.js.map": "/static/js/main.29a44118.js.map",
+    "453.e68500a5.chunk.js.map": "/static/js/453.e68500a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3ed51e4.css",
+    "static/js/main.29a44118.js"
+  ]
+}
