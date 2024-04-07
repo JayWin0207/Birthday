@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/Birthday/static/css/main.2a6a8fc2.css",
-    "main.js": "/Birthday/static/js/main.ef024954.js",
+    "main.css": "/Birthday/static/css/main.b42907a7.css",
+    "main.js": "/Birthday/static/js/main.f7680fbe.js",
     "static/js/453.e68500a5.chunk.js": "/Birthday/static/js/453.e68500a5.chunk.js",
+    "static/media/mainPic.jpg": "/Birthday/static/media/mainPic.b91ed9b5d75c772c7bad.jpg",
     "static/media/aswini-3.png": "/Birthday/static/media/aswini-3.4c3b651a58474a00cda6.png",
     "static/media/aswini-7.jpg": "/Birthday/static/media/aswini-7.9774b3d9d767c9dc0e49.jpg",
     "static/media/aswini-4.jpg": "/Birthday/static/media/aswini-4.5df01c04d1eaf64ea93b.jpg",
@@ -16,12 +17,12 @@
     "static/media/images (1).jpg": "/Birthday/static/media/images (1).301938625a50127bef72.jpg",
     "static/media/download.png": "/Birthday/static/media/download.ece2b5a882299ec6afb6.png",
     "index.html": "/Birthday/index.html",
-    "main.2a6a8fc2.css.map": "/Birthday/static/css/main.2a6a8fc2.css.map",
-    "main.ef024954.js.map": "/Birthday/static/js/main.ef024954.js.map",
+    "main.b42907a7.css.map": "/Birthday/static/css/main.b42907a7.css.map",
+    "main.f7680fbe.js.map": "/Birthday/static/js/main.f7680fbe.js.map",
     "453.e68500a5.chunk.js.map": "/Birthday/static/js/453.e68500a5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2a6a8fc2.css",
-    "static/js/main.ef024954.js"
+    "static/css/main.b42907a7.css",
+    "static/js/main.f7680fbe.js"
   ]
 }
