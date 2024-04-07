@@ -1,0 +1,56 @@
+#main{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#seventh-wish{
+    color: orange;
+    display: flex;
+    justify-content: center;
+}
+#images{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5px;
+    background-size: 100% 100%;
+    position:relative;
+    height:430px;
+}
+p{
+    display: flex;
+    justify-content: center;
+    text-align: justify;
+}
+#seventh-wish2{
+    display: flex;
+    justify-content: center;
+    text-align:center;
+}
+
+#seventh-image1{
+    background-image: url('../images/7thbday.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 0;
+    margin: 0 0;
+    margin-left: 4px;
+    margin-top: 4px;
+    box-sizing: border-box;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+#seventh-image2{
+    background-image: url('../images/aswini-7.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 0;
+    margin: 0 0;
+    box-sizing: border-box;
+    margin-right: 4px;
+    margin-top: 4px;
+    box-sizing: border-box;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+#seventhYearVideo{
+    display: flex;
+    justify-content: center;
+}

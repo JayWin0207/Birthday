@@ -1,0 +1,52 @@
+#second-main{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#second-wish{
+    color: green;
+    display: flex;
+    justify-content: center;
+}
+#second-images{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5px;
+    background-size: 100% 100%;
+    position:relative;
+    height:430px;
+}
+p{
+    display: flex;
+    justify-content: center;
+}
+
+#second-image1{
+    background-image: url('../images/download.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    height: auto;
+    padding: 0;
+    margin: 0 0;
+    margin-left: 4px;
+    margin-top: 4px;
+    box-sizing: border-box;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+#second-image2{
+    background-image: url('../images/aswini-2.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 0;
+    margin: 0 0;
+    box-sizing: border-box;
+    margin-right: 4px;
+    margin-top: 4px;
+    box-sizing: border-box;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+#secondYearVideo{
+    display: flex;
+    justify-content: center;
+}
